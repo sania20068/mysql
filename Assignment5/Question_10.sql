@@ -1,0 +1,1 @@
+SELECT * FROM Persons ORDER BY Rating DESC;
